@@ -1,7 +1,7 @@
 # Predicting Molecular Lipophilicity (LogP) Using a GNN and SVR
 ## Description
 This repository contains our team’s solution for the <b>Element 119</b> competition organized by <b>SIBUR</b>, focusing on the application of artificial intelligence in chemistry.
-The goal of the project is to predict the lipophilicity coefficient (LogP) of organic molecules using an ensemble of two models:
+The goal of the project is to predict the lipophilicity coefficient (LogP) of organic molecules using two models:
 
 - Graph Neural Network (GNN) implemented with PyTorch for analyzing molecular structures<br>
 - Support Vector Regression (SVR) with engineered physicochemical features
